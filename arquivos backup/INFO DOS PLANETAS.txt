@@ -1,0 +1,217 @@
+
+### JUPITER, O ARAUTO 
+
+DOMICILIO: ♐︎ (SAGITÁRIO), ♓︎ (PEIXES)
+EXALTAÇÃO: ♋︎ (CANCER)
+TRIPLICE: FOGO
+JUBILO:  ♐︎ (SAGITÁRIO)
+QUEDA: ♑︎ (CAPRICORNIO)
+
+TERMOS:
+
+6: ♈︎ (ARIES), ♌︎ (LEÃO)
+12: ♊︎ (GEMEOS), ♐︎ (SAGITÁRIO), ♑︎ (CAPRICORNIO), ♓︎ (PEIXES)
+21: ♒︎ (AQUARIO), ♍︎ (VIRGEM), ♎︎ (LIBRA)
+26: ♉︎ (TOURO), ♏︎ (ESCORPIÃO), ♋︎ (CANCER)
+
+FACES:
+10: ♊︎ (GEMEOS), ♑︎ (CAPRICORNIO)
+20: ♌︎ (LEÃO), ♓︎ (PEIXES)
+30: ♎︎ (LIBRA)
+
+
+
+
+### LUA, A AUGUSTA
+
+DOMICILIO: ♋︎ (CANCER)
+EXALTAÇÃO: ♉︎ (TOURO)
+TRIPLICE: TERRA
+JUBILO: NÃO POSSUÍ
+QUEDA: ♏︎ (ESCORPIÃO)
+
+TERMOS: NÃO POSSUÍ
+FACES:
+10: ♎︎ (LIBRA)
+20: ♉︎ (TOURO), ♐︎ (SAGITÁRIO)
+30: ♋︎ (CANCER), ♑︎ (CAPRICORNIO), ♒︎ (AQUARIO)
+
+
+
+
+
+
+
+
+
+
+
+### MARTE, O GENERAL
+
+DOMICILIO: ♈︎ (ARIES), ♏︎ (ESCORPIÃO)
+EXALTAÇÃO: ♑︎ (CAPRICORNIO)
+TRIPLICE: AR
+JUBILO: ♏︎ (ESCORPIÃO)
+QUEDA: ♋︎ (CANCER)
+
+TERMOS: 
+
+9: ♋︎ (CANCER), ♏︎ (ESCORPIÃO)
+25: ♊︎ (GEMEOS), ♈︎ (ARIES), ♒︎ (AQUARIO)
+28: ♍︎ (VIRGEM), 28: ♓︎ (PEIXES)
+30: ♉︎ (TOURO), ♌︎ (LEÃO), ♎︎ (LIBRA), ♐︎ (SAGITÁRIO), ♑︎ (CAPRICORNIO)
+
+FACES:
+10: ♈︎ (ARIES), ♏︎ (ESCORPIÃO)
+20: ♊︎ (GEMEOS), ♑︎ (CAPRICORNIO)
+30: ♌︎ (LEÃO), ♓︎ (PEIXES)
+
+
+
+
+
+
+
+
+
+
+### MERCURIO, O COLONO
+
+DOMICILIO: ♊︎ (GEMEOS), ♍︎ (VIRGEM) 
+EXALTAÇÃO: ♍︎ (VIRGEM) 
+TRIPLICE: ÁGUA
+JUBILO: ♍︎ (VIRGEM)
+QUEDA: ♓︎ (PEIXES)
+
+TERMOS:
+
+7: ♊︎ (GEMEOS), ♍︎ (VIRGEM), ♑︎ (CAPRICORNIO), ♒︎ (AQUARIO)
+14: ♉︎ (TOURO), ♎︎ (LIBRA)
+19: ♋︎ (CANCER), ♏︎ (ESCORPIÃO), ♓︎ (PEIXES)
+20: ♈︎ (ARIES), ♐︎ (SAGITÁRIO), ♌︎ (LEÃO)
+
+
+
+FACES:
+10: ♉︎ (TOURO), ♐︎ (SAGITÁRIO)
+20: ♋︎ (CANCER), ♒︎ (AQUARIO)
+30: ♍︎ (VIRGEM) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### SATURNO, O EMBAIXADOR
+
+DOMICILIO: ♑︎ (CAPRICORNIO), ♒︎ (AQUARIO)
+EXALTAÇÃO: ♎︎ (LIBRA)
+TRIPLICE: ÁGUA
+JUBILO: ♒︎ (AQUARIO)
+QUEDA: ♈︎ (ARIES)
+
+TERMOS:
+
+
+6: ♎︎ (LIBRA)
+18: ♌︎ (LEÃO)
+26: ♐︎ (SAGITÁRIO), ♑︎ (CAPRICORNIO), ♉︎ (TOURO)
+30: ♈︎ (ARIES), ♊︎ (GEMEOS), ♋︎ (CANCER), ♍︎ (VIRGEM), ♏︎ (ESCORPIÃO), ♒︎ (AQUARIO), ♓︎ (PEIXES)
+
+
+FACES:
+10: ♌︎ (LEÃO), ♓︎ (PEIXES)
+20: ♎︎ (LIBRA)
+30: ♉︎ (TOURO), ♐︎ (SAGITÁRIO)
+
+
+
+
+
+
+
+
+
+
+
+### SOL, O IMPERADOR 
+
+DOMICILIO: ♌︎ (LEÃO)
+EXALTAÇÃO: ♈︎ (ARIES)
+TRIPLICE: FOGO
+JUBILO: NAO POSSUÍ
+QUEDA: ♎︎ (LIBRA)
+
+TERMOS: NÃO POSSUÍ
+FACES:
+10: ♍︎ (VIRGEM) 
+20: ♈︎ (ARIES), ♏︎ (ESCORPIÃO)
+30: ♊︎ (GEMEOS)
+
+
+
+
+
+
+
+
+
+
+### VENUS, A CAMPESINA
+
+DOMICILIO: ♉︎ (TOURO), ♎︎ (LIBRA)
+EXALTAÇÃO:  ♓︎ (PEIXES)
+TRIPLICE: TERRA
+JUBILO: ♉︎ (TOURO)
+QUEDA: ♍︎ (VIRGEM)
+
+TERMOS:
+
+8: ♉︎ (TOURO)
+12: ♌︎ (LEÃO), ♏︎ (ESCORPIÃO), ♈︎ (ARIES), ♓︎ (PEIXES)
+17: ♋︎ (CANCER), ♒︎ (AQUARIO), ♊︎ (GEMEOS), ♍︎ (VIRGEM), ♐︎ (SAGITÁRIO)
+28: ♑︎ (CAPRICORNIO), ♎︎ (LIBRA)
+
+
+FACES:
+10: ♋︎ (CANCER), ♒︎ (AQUARIO)
+20: ♍︎ (VIRGEM) 
+30: ♈︎ (ARIES), ♏︎ (ESCORPIÃO)
+
+
+
+
+
+
+
+
+
+
+
+TRIPLICES:
+FOGO: ♈︎, ♌︎, ♐︎
+ÁGUA: ♊︎, ♎︎, ♒︎ 
+TERRA: ♋︎, ♏︎, ♓︎
+AR: ♉︎, ♍︎, ♑︎
+
+♈︎
+♉︎
+♊︎
+♋︎
+ ♌︎
+♍︎
+♎︎
+ ♏︎
+ ♐︎
+ ♑︎
+♒︎
+♓︎
